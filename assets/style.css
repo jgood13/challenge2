@@ -6,7 +6,7 @@
 }
 
 html {
-    font-size: 62.5%;
+    font-size: 50%;
 }
 
 header {
@@ -66,6 +66,7 @@ a {
 }
 
 .banner figure img{
+    margin-top:4rem;
     max-height:22rem;
     border:5px solid cadetblue
 }
