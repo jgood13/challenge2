@@ -11,10 +11,21 @@ In the future when I have actual projects that I have completed I can't wait to 
 
 ## Features
 
-1.Links at the top right should bring you down to the correlating sections in the body of the webpage. 
-2.All contact links should bring you to my phone, email, and github.
-3.At 768 pixel width and smaller it does switch to a more mobile friendly viewing experience.
+1. Links at the top right should bring you down to the correlating sections in the body of the webpage. 
+2. All contact links should bring you to my phone, email, and github.
+3. At 768 pixel width and smaller it does switch to a more mobile friendly viewing experience.
+
+## link to page
+
+<a href="https://jgood13.github.io/challenge2/"
+target="_blank">Deployed Webpage</a>
 
 ## screenshot
 
-![Screenshot of page](https://github.com/jgood13/challenge2/blob/main/assets/images/challenge1screenshot.png?raw=true "Page Screenshot")
+![Screenshot of page](https://raw.githubusercontent.com/jgood13/challenge2/main/assets/images/challenge2screenshot.png"Page Screenshot")
+
+## credits
+1. <a href="https://unsplash.com" target="_blank">Unsplash</a>  for pictures
+2. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">MDN</a> For CSS styling
+3. <a href="https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/" target="_blank">Readme styling</a>
+
