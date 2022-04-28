@@ -118,7 +118,6 @@ h2{
 
 .workfigures{
     display: flex;
-    flex: 1 1 100%;
     flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
@@ -142,8 +141,8 @@ h2{
 
 #firstpic{
     height: 70rem;
-    min-height: 48rem;
-    min-width: 70%;
+    min-height: 40rem;
+    min-width: 74%;
 }
 
 .workfigures img:hover{
@@ -162,7 +161,7 @@ h2{
 }
 
 .card2{
-    min-width:34.5%;
+    min-width:36%;
     margin-top: -11.5rem;
 }
 
