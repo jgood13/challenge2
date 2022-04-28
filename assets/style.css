@@ -133,16 +133,16 @@ h2{
 .workfigures img{
     align-items: center;
     width:100%;
-    max-height: 16rem;
+    max-height: 18rem;
     border: 5px solid cadetblue;
     opacity: 50%;
     margin:2rem 2rem 0 0;
 }
 
-#firstpic{
-    height: 70rem;
-    min-height: 40rem;
-    min-width: 74%;
+.card1{
+    height: auto;
+    width: 72%;
+    margin-bottom: ;
 }
 
 .workfigures img:hover{
@@ -161,7 +161,7 @@ h2{
 }
 
 .card2{
-    min-width:36%;
+    min-width:34%;
     margin-top: -11.5rem;
 }
 
@@ -202,6 +202,10 @@ h2{
 .banner figure img{
     max-height:22rem;
     border:5px solid cadetblue
+}
+
+.workfigures .card1 img{
+    min-height: 40rem;
 }
 
 @media screen and (max-width:768px){
