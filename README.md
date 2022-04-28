@@ -22,7 +22,7 @@ target="_blank">Deployed Webpage</a>
 
 ## screenshot
 
-![Screenshot of page](https://raw.githubusercontent.com/jgood13/challenge2/main/assets/images/challenge2screenshot.png"Page Screenshot")
+![Screenshot of page](https://raw.githubusercontent.com/jgood13/challenge2/main/assets/images/challenge2screenshot.png?raw=true "Page Screenshot")
 
 ## credits
 1. <a href="https://unsplash.com" target="_blank">Unsplash</a>  for pictures
